@@ -19,8 +19,8 @@ The intuitive user interface is designed to enhance the player experience, letti
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/cody06412/modern-chess-game.git  
-   cd modern-chess-game  
+   git clone https://github.com/wenode1002/chess  
+   cd chess
    ```  
 
 2. Install dependencies:  

@@ -1,5 +1,3 @@
-import React from 'react';
-
 const pieceUnicode = {
   'Wking': '♔', 'Wqueen': '♕', 'Wrook': '♖', 'Wbishop': '♗', 'Wknight': '♘', 'Wpawn': '♙',
   'Bking': '♚', 'Bqueen': '♛', 'Brook': '♜', 'Bbishop': '♝', 'Bknight': '♞', 'Bpawn': '♟'
